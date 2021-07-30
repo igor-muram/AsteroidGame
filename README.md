@@ -1,6 +1,8 @@
 # Asteroid game
 <p>A desktop game involving the destruction of flying asteroids using a spaceship, created with C# and XAML.</p>
 
+You can <a href="https://github.com/igor-muram/Space/raw/main/Space/Publish.zip" target="_blank">download</a> and watch the created game.
+
 ## Main menu
 
 ![image](https://user-images.githubusercontent.com/54866075/126881369-3ac0bc92-66b2-4026-bd3f-3a9795447395.png)
@@ -16,10 +18,6 @@
 ## Booster Chainsaw
 
 ![image](https://user-images.githubusercontent.com/54866075/126881438-919759fa-5c56-43dd-93a6-a85324722df6.png)
-
-## Booster Shield
-
-
 
 ## Game over
 
