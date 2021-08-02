@@ -33,7 +33,7 @@ You can <a href="https://github.com/igor-muram/Space/raw/main/Space/Publish.zip"
 
 ## Booster Bomb
 
-![bomb](https://user-images.githubusercontent.com/54866075/127874999-fc403e16-6d74-4b04-af94-bd15b5e6cd5f.png)
+![bomb](https://user-images.githubusercontent.com/54866075/127875609-93b14d60-f8b8-4d76-b2e7-dd753e03162b.png)
 
 ## Booster Damage
 
