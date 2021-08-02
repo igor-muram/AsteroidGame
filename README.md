@@ -17,7 +17,35 @@ You can <a href="https://github.com/igor-muram/Space/raw/main/Space/Publish.zip"
 
 ## Booster Chainsaw
 
-![image](https://user-images.githubusercontent.com/54866075/126881438-919759fa-5c56-43dd-93a6-a85324722df6.png)
+![chainsaw](https://user-images.githubusercontent.com/54866075/127874843-b8717552-3954-4341-b152-ce5db4e040d4.png)
+
+## Booster Shield
+
+![shield](https://user-images.githubusercontent.com/54866075/127874914-8c31c16c-6e71-480a-bb97-f134a5f42700.png)
+
+## Booster Lazer
+
+![lazer](https://user-images.githubusercontent.com/54866075/127874943-c899fc51-21da-4f21-8454-ff718dfd1d74.png)
+
+## Booster HP
+
+![hp](https://user-images.githubusercontent.com/54866075/127874967-94edf3ec-2cf4-4749-bc94-04148de6e631.png)
+
+## Booster Bomb
+
+![bomb](https://user-images.githubusercontent.com/54866075/127874999-fc403e16-6d74-4b04-af94-bd15b5e6cd5f.png)
+
+## Booster Damage
+
+![damage](https://user-images.githubusercontent.com/54866075/127875053-2b1f4adc-4cc1-4481-90fc-7db8812a067f.png)
+
+## Level Passage
+
+![win](https://user-images.githubusercontent.com/54866075/127875333-67dfb1f4-9d87-4182-8be5-ef13dfad59d1.png)
+
+## Next level
+
+![2lvl](https://user-images.githubusercontent.com/54866075/127875361-60455051-e8dd-48d8-bf38-955b511882a8.png)
 
 ## Game over
 
