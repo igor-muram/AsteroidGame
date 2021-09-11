@@ -1,7 +1,7 @@
 # Asteroid game
 <p>A desktop game involving the destruction of flying asteroids using a spaceship, created with C# and XAML.</p>
 
-You can <a href="https://github.com/igor-muram/Space/raw/main/Space/Publish.zip" target="_blank">download</a> and watch the created game.
+You can [download](https://github.com/igor-muram/Space/raw/main/Space/Publish.zip) and watch the created game.
 
 ## Description
 
