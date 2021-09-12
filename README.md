@@ -1,7 +1,15 @@
 # Asteroid game
-<p>A desktop game involving the destruction of flying asteroids using a spaceship, created with C# and XAML.</p>
+<p>A desktop game about destroying of flying asteroids using a spaceship, created with C# and XAML.</p>
 
 You can [download](https://github.com/igor-muram/Space/raw/main/Space/Publish.zip) and watch the created game.
+
+## Gameplay
+
+* Gameplay is similar to [Attack the Block](https://play.google.com/store/apps/details?id=com.abi.balls.blockshooter&hl=en&gl=US).
+* Main goal of the game is to score required number of points. 
+* You can score points by destroying asteroids. 
+* When the required number of points is scored you go to the next level. 
+* Destoyed asteroids can drop boosters that help to destroy asteroids faster.
 
 ## Description
 
@@ -17,6 +25,17 @@ You can [download](https://github.com/igor-muram/Space/raw/main/Space/Publish.zi
 * All of the icons used for the boosters are self-drawn.
 * When an asteroid is destroyed, a booster of some type may appear with some chance.
 
+# Boosters
+| Booster | Description |
+| ------- | ----------- |
+|<img src="https://user-images.githubusercontent.com/44492725/132982846-8d7628df-aabb-49c2-84bb-6bd2585bac95.png" width=80 height=80 align=center> | **HP Booster** <br> Increases starship Health Points by 5. |
+|<img src="https://user-images.githubusercontent.com/44492725/132982913-a2287de9-7fc7-442f-8e94-7ff091d856c3.png" width=80 height=80 align=center> | **Laser Booster** <br> 1. Increases number of lasers of starship by 1.<br>2. The number of lasers may vary from 1 to 3.<br>3. With each asteroid collision the number of lasers decreases by 1 until it reaches the minimum number. |
+|<img src="https://user-images.githubusercontent.com/44492725/132982664-50c94ddf-5452-4cd8-af27-b4b320c4cc68.png" width=80 height=80 align=center> | **Damage Booster** <br> Increases starship damage by 5. |
+|<img src="https://user-images.githubusercontent.com/44492725/132983354-e3151997-4548-49bd-b9a3-616133d813df.png" width=80 height=80 align=center> | **Bomb** <br> 1. When you pick up this booster all asteroids on the playing field destroy.<br>2. Asteroids destoyed with bomb don't drop boosters. |
+|<img src="https://user-images.githubusercontent.com/44492725/132995684-cd60303c-418e-4bbf-9f89-bb384dbd2b0b.png" width=80 height=80 align=center> | **Shield Booster** <br>1. Protects starship from any collision with asteroids.<br>2. The booster is active for 5 seconds. |
+|<img src="https://user-images.githubusercontent.com/44492725/132983476-87aca7d7-cb94-4867-9aea-1f3680cf7c55.png" width=80 height=80 align=center> | **Chainsaw Shield Booster**<br> 1. When booster is active, the ship does not take damage when it collides with the asteroid and can also deal damage to the asteroid with the chainsaw. <br> 2. The booster is active for 5 seconds. |
+
+
 ## Main menu
 
 ![image](https://user-images.githubusercontent.com/54866075/126881369-3ac0bc92-66b2-4026-bd3f-3a9795447395.png)
@@ -29,46 +48,29 @@ You can [download](https://github.com/igor-muram/Space/raw/main/Space/Publish.zi
 
 ![image](https://user-images.githubusercontent.com/54866075/126881408-4630edc3-c5aa-47da-b651-23903486cdca.png)
 
-## Booster Chainsaw
-
-* The booster is active for 5 seconds.
-* When booster is active, the ship does not take damage when it collides with the asteroid and can also deal damage to the asteroid with the chainsaw.
-
-![chainsaw](https://user-images.githubusercontent.com/54866075/127874843-b8717552-3954-4341-b152-ce5db4e040d4.png)
-
-## Booster Shield
-
-* The booster is active for 5 seconds.
-* When booster is active, the ship does not take damage when it collides with the asteroid.
-
-![shield](https://user-images.githubusercontent.com/54866075/127874914-8c31c16c-6e71-480a-bb97-f134a5f42700.png)
-
-## Booster Lazer
-
-* If you get a booster, the number of lasers increases until the next collision with the asteroid.
-* The number of lasers may vary from 1 to 3.
-* With each asteroid collision the number of lasers decreases by 1 until it reaches the minimum number.
-
-![lazer](https://user-images.githubusercontent.com/54866075/127874943-c899fc51-21da-4f21-8454-ff718dfd1d74.png)
-
-## Booster HP
-
-* When you get a booster, the amount of health points of the ship increases by 5.
+## HP Booster
 
 ![hp](https://user-images.githubusercontent.com/54866075/127874967-94edf3ec-2cf4-4749-bc94-04148de6e631.png)
 
-## Booster Bomb
+## Laser Booster
 
-* When you get a booster, all asteroids on the playing field disappear.
-* Boosters do not appear when destroying asteroids with a bomb.
+![lazer](https://user-images.githubusercontent.com/54866075/127874943-c899fc51-21da-4f21-8454-ff718dfd1d74.png)
+
+## Damage Booster
+
+![damage](https://user-images.githubusercontent.com/54866075/127875053-2b1f4adc-4cc1-4481-90fc-7db8812a067f.png)
+
+## Bomb Booster
 
 ![bomb](https://user-images.githubusercontent.com/54866075/127875609-93b14d60-f8b8-4d76-b2e7-dd753e03162b.png)
 
-## Booster Damage
+## Shield Booster
 
-* When you get a booster, the damage of the ship increases by 5.
+![shield](https://user-images.githubusercontent.com/54866075/127874914-8c31c16c-6e71-480a-bb97-f134a5f42700.png)
 
-![damage](https://user-images.githubusercontent.com/54866075/127875053-2b1f4adc-4cc1-4481-90fc-7db8812a067f.png)
+## Chainsaw Shield Booster
+
+![chainsaw](https://user-images.githubusercontent.com/54866075/127874843-b8717552-3954-4341-b152-ce5db4e040d4.png)
 
 ## Level Passage
 
